@@ -24,7 +24,6 @@
 	Center(cantidad,"Caracter") -> Rellena a la derecha e izquierda
 	de simbolos definidos en el segundo parametro
         
-        Codigo Facilito
 =end	
 class HolaMundo
 
